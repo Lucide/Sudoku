@@ -1,0 +1,21 @@
+
+    (         ╔═══════════════════════════════════════════╗         )
+   / (        ║(o_    _______ ______ __   _ _     _    _o)║        ) \
+  ) ( \   ⓛⓤⓒ ║//\    |  |  | |_____ | \  | |     |    /\\║ⓘⓓⓔ    / ) (
+  \(_)/   ⓢⓣⓔ ║V_/_   |  |  | |_____ |  \_| |_____|   _\_V║ⓛⓛⓐ    \(_)/
+   <─> ╔══════╝───────────────────────────────────────────╚══════╗ <─>
+   / \ ║                     ◅ ISTRUZIONI ▻                      ║ / \
+   \ / ║                                                         ║ \ /
+   / \ ║   Lo scopo del gioco è completare la griglia con dei    ║ / \
+   \ / ║   numeri in modo tale che ogni colonna, ogni riga, e    ║ \ /
+   / \ ║    ciascuno dei riquadri più piccoli contenga tutti     ║ / \
+   \ / ║                   i numeri da 1 a 9.                    ║ \ /
+   /_\ ║    Ogni volta che chiedi un aiuto, il tuo punteggio     ║ /_\
+ ╔═════╝  sarà diminuito in base al grado di difficoltà scelta.  ╚═════╗
+ ║ Puoi anche salvare un tuo modello di sudoku, il programma genererà  ║
+ ║            automaticamente nuove tracce basate su quello.           ║
+ ║          ╭───────────────────────────────────────────────╮          ║
+ ║  .--.    │_______ _     _ ______   _____  _     _ _     _│    .--.  ║
+ ║:::::.\:::│|______ |     | |     \ |     | |____/  |     |│:::/.:::::║
+ ║'      `--│______| |_____| |_____/ |_____| |    \_ |_____|│--'      '║
+ ╚═════════╡╰───────────────────────────────────────────────╯╞═════════╝
