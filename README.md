@@ -6,7 +6,7 @@
 
 ## What's this?
 
-A tiny a text-based sudoku game written in C. It's a project I made when I was 15.
+A tiny text-graphics sudoku game written in C. It's a project I made when I was 15.
 
 We had just learned about **2D arrays**, everyone had to do a simple console-based game. The graphics were made in GEdit, mostly by painfully editing the file line by line. Everything would then be converted to a single, long, literal string and placed in a `printf()` (as the `format` argument, ouch!). I tried to go for a 60s style.
 
