@@ -20,6 +20,7 @@ The rules were as usual: do not use stuff we hadn't seen in class yet. That woul
 ## Features
 
 * completely written in [Geany](https://www.geany.org/) on a Ubuntu VM
+* screen still cleared with `system("clear")`, *ouch*!
 * multi slot save system
 * built-in editor to add new tables with validator
 * first appearance of `getch()`
